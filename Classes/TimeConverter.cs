@@ -37,7 +37,7 @@ namespace BerlinClock.Classes
 
             if(time == string.Empty)
             {
-                throw new ArgumentException("The string cannot be ampty.", nameof(time));
+                throw new ArgumentException("The string cannot be empty.", nameof(time));
             }
 
             if(!TimeSpan.TryParse(time, out TimeSpan timeSpan))
