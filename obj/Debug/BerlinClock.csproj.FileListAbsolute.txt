@@ -1,0 +1,10 @@
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\bin\Debug\BerlinClock.dll.config
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\bin\Debug\BerlinClock.dll
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\bin\Debug\BerlinClock.pdb
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\obj\Debug\BerlinClock.csprojAssemblyReference.cache
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\obj\Debug\BerlinClock.csproj.CoreCompileInputs.cache
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\obj\Debug\BerlinClock.csproj.CopyComplete
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\obj\Debug\BerlinClock.dll
+C:\Users\mkhitaryana\code-projects\DotNetBerlinClock\obj\Debug\BerlinClock.pdb
